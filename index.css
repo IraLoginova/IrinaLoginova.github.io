@@ -1,0 +1,52 @@
+body {
+  background: gainsboro
+}
+
+.photo {
+  border-radius: 5%;
+}
+
+td {
+  vertical-align: top
+}
+
+.bear {
+  text-align: center;
+  font-style: italic;
+  font-family: 'Gill Sans';
+  color: darkslateblue;
+  margin-top: -0.5cm;
+}
+
+.info p {
+  margin: 0cm;
+  height: 0.7cm;
+  display: flex;
+}
+
+h2 {
+  text-align: center;
+  color: darkblue;
+  font-family: 'Gill Sans';
+}
+
+h3 {
+  text-align: center;
+  color: darkblue;
+  font-family: 'Gill Sans'
+}
+
+p,
+ul {
+  text-align: justify;
+  font-family: 'Gill Sans';
+}
+
+.text {
+  text-indent: 1cm;
+  padding: 0cm 1cm;
+}
+
+.list {
+  padding: 0.5cm
+}
